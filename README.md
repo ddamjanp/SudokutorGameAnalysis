@@ -13,9 +13,8 @@ This project is designed to collect, process, and analyze gameplay statistics ge
 - Analyze player solving performance
 - Track completion times
 - Measure puzzle difficulty metrics
-- Generate statistical summaries
-- Visualize gameplay trends
-- Support for large datasets
+- Generate summaries
+- Give advice 
 
 ## Tech Stack
 
